@@ -1,0 +1,7 @@
+1) ADDITION
+
+function addition(a, b) {
+	var add = a + b;
+	return (add)
+	
+}
